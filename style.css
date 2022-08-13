@@ -1,0 +1,128 @@
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+}
+
+/* -- navbar --  */
+.navbar-container {
+  display: inline;
+  height: 8vh;
+  width: 85vw;
+  position: absolute;
+  left: 100px;
+  top: 40px;
+  font-family: "Poppins";
+}
+
+nav.navbar-container > div {
+  display: inline-block;
+}
+
+img[alt="brand-logo"] {
+  width: 120px;
+  height: 45px;
+  position: absolute;
+  left: 0;
+  bottom: 0px;
+}
+
+.grow-list {
+  display: inline-block;
+  position: absolute;
+  left: 225px;
+  bottom: 10px;
+}
+
+.list {
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.list-item {
+  display: inline;
+  margin-right: 50px;
+  font-size: 19px;
+  color: #a1a1a1;
+}
+
+.list-item:hover {
+  color: #0c0b0b;
+  font-weight: 600;
+}
+
+.button-group {
+  display: inline-block;
+  position: absolute;
+  right: 20px;
+  bottom: 0;
+}
+
+.nav-button {
+  height: 60px;
+  width: 150px;
+  background-color: #5955b3;
+  border: none;
+  border-radius: 10px;
+  font-size: 17px;
+  font-weight: 600;
+  color: #ffffff;
+}
+/* -- banner  -- */
+.banner-container {
+  font-family: "poppins";
+  height: 75vh;
+  width: 100vw;
+  display: block;
+  position: absolute;
+  bottom: 0;
+}
+
+.banner-container > div {
+  display: inline-block;
+}
+
+/* right part */
+
+img[alt="illustration"] {
+  /* height: 720px;
+  width: 950px; */
+  position: absolute;
+  right: 110px;
+  top: -50px;
+}
+
+/* left part */
+div.banner-container:first-child {
+  position: absolute;
+  left: 100px;
+}
+
+.heading-text {
+  font-size: 80px;
+  font-weight: 600;
+  line-height: 90px;
+  width: 40vw;
+  color: #3c2f60;
+}
+
+.heading-text > span {
+  color: #5955b3;
+}
+
+.description {
+  margin-top: 40px;
+  width: 22vw;
+  color: #a1a1a1;
+}
+
+.btn {
+  margin-top: 80px;
+  height: 70px;
+  width: 225px;
+}
