@@ -1,15 +1,25 @@
-# Digital Marketing Home Page
+# [Live Project 4](https://jagadeeshproject4.netlify.app/)
+
+<br>
+
+# [Digital Marketing Home Page](https://jagadeeshproject4.netlify.app/)
+
+<br><br>
+
+[![LiveLink](https://img.shields.io/badge/Live%20Link-Click%20here-red)](https://jagadeeshproject4.netlify.app/)
 
 ![image](./4.png)
+
+<br><br>
 
 >**Learnings from the project**
 
 - Positions (Relative, Absolute, Static, Fixed)
 - Pseudo Selectors (hover)
-- Box model
+- Selectors: Tried to target an element in  different ways
 - Learned a lot in this project.
 
-![project3](https://img.shields.io/badge/Project-4-orange)
+![project4](https://img.shields.io/badge/Project-4-orange)
 
 ![Timespent](https://img.shields.io/badge/Time%20spent-4%20hours-blue)
 
